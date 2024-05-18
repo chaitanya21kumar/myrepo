@@ -1,0 +1,10 @@
+alternate way to push {or remote pe commit kaise karnege } is
+
+1.Github account
+2.Empty Repo. 
+3.local system 
+git config - -global user.name “chaitanya21kumar”
+git config -  -global user.email “multiversesyndrome@gmail.com”
+4. git push -u origin master
+* 4.1. username? → chaitanya21kumar
+* 4.2. password? → token generated 
